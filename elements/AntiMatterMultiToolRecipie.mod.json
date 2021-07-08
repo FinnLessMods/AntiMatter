@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AntiMatterMultiTool"
+    },
+    "name": "anti_matter_multi_tool_recipie",
+    "namespace": "mod"
+  }
+}

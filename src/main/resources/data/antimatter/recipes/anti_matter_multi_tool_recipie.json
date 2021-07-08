@@ -1,0 +1,33 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "1": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "2": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "3": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "antimatter:anti_matter_pure_form"
+    }
+  },
+  "result": {
+    "item": "antimatter:anti_matter_multi_tool",
+    "count": 1
+  }
+}

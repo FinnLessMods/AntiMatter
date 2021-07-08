@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "antimatteralltools",
+    "customModelName": "Normal",
+    "name": "Anti Matter Multi Tool",
+    "specialInfo": [
+      "The multitool pulses with raw power..."
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 4,
+    "efficiency": 500.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 40.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AntiMatterIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

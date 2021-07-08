@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.antimatter.block.AntiMatterBlock;
+import net.mcreator.antimatter.item.AntiMatterPureFormItem;
 import net.mcreator.antimatter.AntimatterModElements;
 
 @AntimatterModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class AntiMatterModItemGroup extends AntimatterModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(AntiMatterBlock.block, (int) (1));
+				return new ItemStack(AntiMatterPureFormItem.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)
