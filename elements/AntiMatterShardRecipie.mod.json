@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      },
+      {
+        "value": "CUSTOM:AntiMatterShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AntiMatter"
+    },
+    "name": "anti_matter_shard_recipie",
+    "namespace": "mod"
+  }
+}

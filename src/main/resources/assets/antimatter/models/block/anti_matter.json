@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "antimatter:blocks/antimattertex",
+    "up": "antimatter:blocks/antimattertex",
+    "north": "antimatter:blocks/antimattertex",
+    "east": "antimatter:blocks/antimattertex",
+    "south": "antimatter:blocks/antimattertex",
+    "west": "antimatter:blocks/antimattertex",
+    "particle": "antimatter:blocks/antimattertex"
+  }
+}

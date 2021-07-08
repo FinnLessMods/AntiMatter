@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:AntiMatterPlains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Antirack"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Antiliquid"
+    },
+    "airColor": {
+      "value": -6736897,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.PURPUR_BLOCK"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Anti Matter Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:AntiMatterMod"
+    },
+    "texture": "flint_and_steel_inventory",
+    "portalTexture": "antimattertex",
+    "enablePortal": true
+  }
+}

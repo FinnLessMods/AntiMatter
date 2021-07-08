@@ -1,0 +1,27 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "1": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "antimatter:anti_matter_tools_hoe",
+    "count": 1
+  }
+}

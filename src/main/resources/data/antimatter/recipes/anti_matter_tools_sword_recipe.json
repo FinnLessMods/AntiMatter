@@ -1,0 +1,24 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "1": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "antimatter:anti_matter_tools_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "antimatter:block/anti_matter_demention_portal_ew"
+    },
+    "axis=x": {
+      "model": "antimatter:block/anti_matter_demention_portal_ns"
+    }
+  }
+}

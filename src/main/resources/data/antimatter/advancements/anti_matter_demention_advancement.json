@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "antimatter:anti_matter"
+    },
+    "title": {
+      "translate": "advancements.anti_matter_demention_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.anti_matter_demention_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "anti_matter_demention_advancement": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "antimatter:anti_matter_demention"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

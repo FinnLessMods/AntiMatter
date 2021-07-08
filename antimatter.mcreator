@@ -1,0 +1,292 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AntiMatterDemention",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_demention",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Antirack",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antirack"
+    },
+    {
+      "name": "Antiliquid",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antiliquid"
+    },
+    {
+      "name": "AntiMatter",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter"
+    },
+    {
+      "name": "AntiMatterMod",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_mod"
+    },
+    {
+      "name": "AntiMatterIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_ingot"
+    },
+    {
+      "name": "AntiMatterIngotRecipie",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_ingot_recipie"
+    },
+    {
+      "name": "AntiMatterPlains",
+      "type": "biome",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_plains"
+    },
+    {
+      "name": "AntiMatterDementionAdvancement",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_demention_advancement"
+    },
+    {
+      "name": "AntiZombie",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_zombie"
+    },
+    {
+      "name": "AntiMatterIgnigterRecipie",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_ignigter_recipie"
+    },
+    {
+      "name": "AntiMatterToolsPickaxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_pickaxe"
+    },
+    {
+      "name": "AntiMatterToolsAxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_axe"
+    },
+    {
+      "name": "AntiMatterToolsSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_sword"
+    },
+    {
+      "name": "AntiMatterToolsShovel",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_shovel"
+    },
+    {
+      "name": "AntiMatterToolsHoe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_hoe"
+    },
+    {
+      "name": "AntiMatterToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_pickaxe_recipe"
+    },
+    {
+      "name": "AntiMatterToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_axe_recipe"
+    },
+    {
+      "name": "AntiMatterToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_sword_recipe"
+    },
+    {
+      "name": "AntiMatterToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_shovel_recipe"
+    },
+    {
+      "name": "AntiMatterToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_tools_hoe_recipe"
+    },
+    {
+      "name": "AntiMatterPureForm",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_pure_form"
+    },
+    {
+      "name": "AntiMatterPurerecipie",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_purerecipie"
+    },
+    {
+      "name": "WHY",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "why"
+    },
+    {
+      "name": "AntiMatterShard",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_shard"
+    },
+    {
+      "name": "AntiMatterShardRecipie",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_shard_recipie"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabanti_matter_mod": "Anti Matter Mod",
+      "advancements.why.title": "WHY",
+      "entity.antimatter.anti_zombie": "Anti Zombie",
+      "item.antimatter.anti_matter_tools_sword": "Anti Matter Sword",
+      "fluid.antiliquid": "Antiliquid",
+      "item.antimatter.anti_matter_tools_shovel": "Anti Matter Shovel",
+      "item.antimatter.anti_matter_tools_hoe": "Anti Matter Hoe",
+      "item.antimatter.anti_matter_demention": "Anti Matter Igniter",
+      "block.antimatter.antirack": "Antirack",
+      "advancements.anti_matter_demention_advancement.title": "Anti Matter???",
+      "biome.antimatter.anti_matter_plains": "Anti Matter Plains",
+      "item.antimatter.antiliquid_bucket": "Antiliquid Bucket",
+      "advancements.anti_matter_demention_advancement.descr": "Enter an odd new dimension",
+      "item.antimatter.anti_zombie_spawn_egg": "Anti Zombie Spawn Egg",
+      "advancements.why.descr": "Craft an anti matter how",
+      "item.antimatter.anti_matter_ingot": "Anti Matter Ingot",
+      "item.antimatter.anti_matter_tools_pickaxe": "Anti Matter Pickaxe",
+      "item.antimatter.anti_matter_tools_axe": "Anti Matter Axe",
+      "item.antimatter.anti_matter_pure_form": "Anti Matter Pure Form",
+      "block.antimatter.anti_matter": "Anti Matter",
+      "item.antimatter.anti_matter_shard": "Anti Matter Shard"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "antimatter",
+    "modName": "AntiMatter",
+    "version": "1.0.0",
+    "author": "Phineas Kauffman, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.antimatter",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 2000,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:AntiMatter"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:AntiMatterIngot"
+    },
+    "name": "anti_matter_ingot_recipie",
+    "namespace": "mod"
+  }
+}

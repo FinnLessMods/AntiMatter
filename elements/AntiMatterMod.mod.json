@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Anti Matter Mod",
+    "icon": {
+      "value": "CUSTOM:AntiMatter"
+    },
+    "showSearch": true
+  }
+}

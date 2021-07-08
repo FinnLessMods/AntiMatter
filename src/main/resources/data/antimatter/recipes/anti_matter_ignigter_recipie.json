@@ -1,0 +1,16 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:purpur_block"
+    }
+  ],
+  "result": {
+    "item": "antimatter:anti_matter_demention",
+    "count": 1
+  }
+}

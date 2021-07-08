@@ -1,0 +1,42 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "1": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "2": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "3": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "4": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "5": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "6": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "7": {
+      "item": "antimatter:anti_matter_shard"
+    },
+    "8": {
+      "item": "antimatter:anti_matter_shard"
+    }
+  },
+  "result": {
+    "item": "antimatter:anti_matter",
+    "count": 1
+  }
+}

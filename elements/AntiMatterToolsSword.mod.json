@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "antimattertools_sword",
+    "customModelName": "Normal",
+    "name": "Anti Matter Sword",
+    "specialInfo": [
+      "The sword pulses with raw power..."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AntiMatterMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 40.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AntiMatterIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
