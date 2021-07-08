@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AntiMatterPureForm"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AntimatterArmorArmor.boots"
+    },
+    "name": "antimatter_armor_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

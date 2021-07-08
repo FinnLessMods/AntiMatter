@@ -1,0 +1,36 @@
+{
+  "group": "antimatter",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "1": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "2": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "3": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "5": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "6": {
+      "item": "antimatter:anti_matter_pure_form"
+    },
+    "8": {
+      "item": "antimatter:anti_matter_pure_form"
+    }
+  },
+  "result": {
+    "item": "antimatter:antimatter_armor_armor_leggings",
+    "count": 1
+  }
+}

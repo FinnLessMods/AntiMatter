@@ -23,6 +23,7 @@ import net.minecraft.item.SpawnEggItem;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.entity.projectile.ArrowEntity;
 import net.minecraft.entity.monster.MonsterEntity;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
@@ -86,9 +87,10 @@ public class AntiZombieEntity extends AntimatterModElements.ModElement {
 		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
 			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
 			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.3);
-			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 30);
+			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 40);
 			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 0);
-			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 3);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 10);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 0.2);
 			event.put(entity, ammma.create());
 		}
 	}
@@ -149,6 +151,13 @@ public class AntiZombieEntity extends AntimatterModElements.ModElement {
 		@Override
 		public net.minecraft.util.SoundEvent getDeathSound() {
 			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("entity.zombie.death"));
+		}
+
+		@Override
+		public boolean attackEntityFrom(DamageSource source, float amount) {
+			if (source.getImmediateSource() instanceof ArrowEntity)
+				return false;
+			return super.attackEntityFrom(source, amount);
 		}
 
 		public void livingTick() {

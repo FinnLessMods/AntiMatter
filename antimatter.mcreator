@@ -264,6 +264,57 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "anti_matter_pickaxe"
+    },
+    {
+      "name": "AntimatterArmorArmor",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimatter_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AntimatterArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimatter_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "AntimatterArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimatter_armor_armor_body_recipe"
+    },
+    {
+      "name": "AntimatterArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimatter_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "AntimatterArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimatter_armor_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -280,13 +331,17 @@
       "item.antimatter.anti_zombie_spawn_egg": "Anti Zombie Spawn Egg",
       "item.antimatter.anti_matter_pickaxe": "Anti Matter Pickaxe",
       "advancements.what_is_this.descr": "Get an anti matter shard.",
+      "item.antimatter.antimatter_armor_armor_leggings": "AntimatterArmor Leggings",
       "item.antimatter.anti_matter_tools_axe": "Anti Matter Axe",
       "block.antimatter.anti_matter": "Anti Matter",
       "item.antimatter.anti_matter_shard": "Anti Matter Shard",
+      "item.antimatter.antimatter_armor_armor_boots": "AntimatterArmor Boots",
       "entity.antimatter.anti_zombie": "Anti Zombie",
       "item.antimatter.anti_matter_tools_sword": "Anti Matter Sword",
+      "item.antimatter.antimatter_armor_armor_helmet": "AntimatterArmor Helmet",
       "item.antimatter.anti_matter_tools_shovel": "Anti Matter Shovel",
       "advancements.what_is_this.title": "What Is This?",
+      "item.antimatter.antimatter_armor_armor_chestplate": "AntimatterArmor Chestplate",
       "item.antimatter.anti_matter_multi_tool": "Anti Matter Multi Tool",
       "block.antimatter.antirack": "Antirack",
       "advancements.anti_matter_demention_advancement.title": "Anti Matter???",
