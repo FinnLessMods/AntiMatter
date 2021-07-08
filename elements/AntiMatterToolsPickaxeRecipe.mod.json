@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:AntiMatterToolsPickaxe"
+      "value": "CUSTOM:AntiMatterPickaxe"
     },
     "name": "anti_matter_tools_pickaxe_recipe",
     "namespace": "mod"
