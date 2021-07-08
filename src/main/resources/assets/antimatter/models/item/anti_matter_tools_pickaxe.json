@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "antimatter:items/antimattertools_pickaxe"
-  }
-}

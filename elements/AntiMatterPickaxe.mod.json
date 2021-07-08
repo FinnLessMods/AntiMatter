@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "antimattertools_pickaxe",
+    "texture": "pickkkkk",
     "customModelName": "Normal",
     "name": "Anti Matter Pickaxe",
     "specialInfo": [
@@ -13,11 +13,11 @@
       "value": "CUSTOM:AntiMatterMod"
     },
     "toolType": "Pickaxe",
-    "harvestLevel": 10,
+    "harvestLevel": 4,
     "efficiency": 500.0,
     "attackSpeed": 1.0,
     "enchantability": 20,
-    "damageVsEntity": 2.0,
+    "damageVsEntity": 4.0,
     "usageCount": 2500,
     "blocksAffected": [],
     "hasGlow": true,

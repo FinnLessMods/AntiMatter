@@ -104,15 +104,6 @@
       "registry_name": "anti_matter_ignigter_recipie"
     },
     {
-      "name": "AntiMatterToolsPickaxe",
-      "type": "tool",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "anti_matter_tools_pickaxe"
-    },
-    {
       "name": "AntiMatterToolsAxe",
       "type": "tool",
       "sortid": 11,
@@ -264,6 +255,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "anti_matter_multi_tool_recipie"
+    },
+    {
+      "name": "AntiMatterPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_matter_pickaxe"
     }
   ],
   "variable_elements": [],
@@ -278,8 +278,8 @@
       "item.antimatter.antiliquid_bucket": "Antiliquid Bucket",
       "advancements.anti_matter_demention_advancement.descr": "Enter an odd new dimension",
       "item.antimatter.anti_zombie_spawn_egg": "Anti Zombie Spawn Egg",
+      "item.antimatter.anti_matter_pickaxe": "Anti Matter Pickaxe",
       "advancements.what_is_this.descr": "Get an anti matter shard.",
-      "item.antimatter.anti_matter_tools_pickaxe": "Anti Matter Pickaxe",
       "item.antimatter.anti_matter_tools_axe": "Anti Matter Axe",
       "block.antimatter.anti_matter": "Anti Matter",
       "item.antimatter.anti_matter_shard": "Anti Matter Shard",
@@ -303,7 +303,7 @@
   "workspaceSettings": {
     "modid": "antimatter",
     "modName": "AntiMatter",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "Phineas Kauffman, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",

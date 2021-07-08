@@ -21,11 +21,11 @@ import net.mcreator.antimatter.AntimatterModElements;
 import java.util.List;
 
 @AntimatterModElements.ModElement.Tag
-public class AntiMatterToolsPickaxeItem extends AntimatterModElements.ModElement {
-	@ObjectHolder("antimatter:anti_matter_tools_pickaxe")
+public class AntiMatterPickaxeItem extends AntimatterModElements.ModElement {
+	@ObjectHolder("antimatter:anti_matter_pickaxe")
 	public static final Item block = null;
-	public AntiMatterToolsPickaxeItem(AntimatterModElements instance) {
-		super(instance, 10);
+	public AntiMatterPickaxeItem(AntimatterModElements instance) {
+		super(instance, 28);
 	}
 
 	@Override
@@ -40,11 +40,11 @@ public class AntiMatterToolsPickaxeItem extends AntimatterModElements.ModElement
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 2f;
 			}
 
 			public int getHarvestLevel() {
-				return 10;
+				return 4;
 			}
 
 			public int getEnchantability() {
@@ -66,6 +66,6 @@ public class AntiMatterToolsPickaxeItem extends AntimatterModElements.ModElement
 			public boolean hasEffect(ItemStack itemstack) {
 				return true;
 			}
-		}.setRegistryName("anti_matter_tools_pickaxe"));
+		}.setRegistryName("anti_matter_pickaxe"));
 	}
 }
